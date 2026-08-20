@@ -26,20 +26,22 @@ This repository is designed for **students, interview preparation, and coding pr
 - Install any IDE (e.g., IntelliJ IDEA, Eclipse, VS Code with Java extension)  
 
 ### ▶️ How to Run the Code
-1. Navigate to the project folder:
+#1. Navigate to the project folder:
    ```bash
    cd DSA-in-JAVA
    ```
-2. Compile the Java file
+#2. Compile the Java file
 javac FileName.java
+
 Replace FileName.java with the actual file you want to run.
 Example: javac BubbleSort.java
 
-4. Run the compiled program
+#3. Run the compiled program
 java FileName
+
 Example: java BubbleSort
 
-4. View the output
+#4. View the output
 The program will execute and display the results in the terminal.
 
 ## 🎯 Purpose
