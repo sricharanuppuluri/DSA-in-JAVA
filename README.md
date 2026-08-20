@@ -1,6 +1,5 @@
 # DSA-in-JAVA
 
-# DSA-in-JAVA
 
 A collection of **Data Structures and Algorithms** implemented in Java.  
 This repository is designed for **students, interview preparation, and coding practice**.
