@@ -78,6 +78,7 @@ Created by **Sri Charan Uppuluri**
 | [0015-3sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -87,6 +88,7 @@ Created by **Sri Charan Uppuluri**
 | [0015-3sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -99,6 +101,15 @@ Created by **Sri Charan Uppuluri**
 | ------- | ------- |
 | [0015-3sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
