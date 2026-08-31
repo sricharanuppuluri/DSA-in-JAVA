@@ -75,6 +75,7 @@ Created by **Sri Charan Uppuluri**
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -86,6 +87,7 @@ Created by **Sri Charan Uppuluri**
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -114,4 +116,8 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
