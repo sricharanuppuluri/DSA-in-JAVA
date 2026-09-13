@@ -79,6 +79,7 @@ Created by **Sri Charan Uppuluri**
 | [0015-3sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -102,6 +103,7 @@ Created by **Sri Charan Uppuluri**
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Sorting
