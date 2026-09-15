@@ -151,4 +151,8 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
