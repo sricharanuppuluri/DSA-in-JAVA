@@ -92,6 +92,7 @@ Created by **Sri Charan Uppuluri**
 | [1480-running-sum-of-1d-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0412-fizz-buzz/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
