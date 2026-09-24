@@ -87,6 +87,7 @@ Created by **Sri Charan Uppuluri**
 | [0283-move-zeroes](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -120,6 +121,7 @@ Created by **Sri Charan Uppuluri**
 | [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ Created by **Sri Charan Uppuluri**
 | [0003-longest-substring-without-repeating-characters](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +180,8 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
