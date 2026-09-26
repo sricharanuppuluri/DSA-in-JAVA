@@ -90,6 +90,7 @@ Created by **Sri Charan Uppuluri**
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -184,4 +185,12 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
