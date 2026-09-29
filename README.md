@@ -96,6 +96,7 @@ Created by **Sri Charan Uppuluri**
 | [1672-richest-customer-wealth](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ Created by **Sri Charan Uppuluri**
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ Created by **Sri Charan Uppuluri**
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
