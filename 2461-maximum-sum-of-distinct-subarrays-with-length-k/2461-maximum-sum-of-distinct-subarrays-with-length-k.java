@@ -8,7 +8,7 @@ class Solution {
         for(int right=0;right<n;right++){
             sum+=nums[right];
             freq.put(nums[right],freq.getOrDefault(nums[right],0)+1);
-            if(right-left+1>k){
+            while(right-left+1>k){
                 sum-=nums[left];
                 freq.put(nums[left],freq.get(nums[left])-1);
                 if(freq.get(nums[left])==0){
