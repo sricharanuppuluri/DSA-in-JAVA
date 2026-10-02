@@ -86,6 +86,7 @@ Created by **Sri Charan Uppuluri**
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -117,6 +118,7 @@ Created by **Sri Charan Uppuluri**
 | [0035-search-insert-position](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Created by **Sri Charan Uppuluri**
 | [0076-minimum-window-substring](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -153,6 +156,7 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
