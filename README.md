@@ -84,6 +84,7 @@ Created by **Sri Charan Uppuluri**
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -157,6 +158,7 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1314-matrix-block-sum/) | Medium |
