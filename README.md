@@ -90,6 +90,7 @@ Created by **Sri Charan Uppuluri**
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1314-matrix-block-sum/) | Medium |
@@ -162,6 +163,7 @@ Created by **Sri Charan Uppuluri**
 | [0238-product-of-array-except-self](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -173,6 +175,7 @@ Created by **Sri Charan Uppuluri**
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String
