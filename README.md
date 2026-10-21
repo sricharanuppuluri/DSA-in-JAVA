@@ -89,6 +89,7 @@ Created by **Sri Charan Uppuluri**
 | [0485-max-consecutive-ones](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -163,6 +164,7 @@ Created by **Sri Charan Uppuluri**
 | [0238-product-of-array-except-self](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1314-matrix-block-sum/) | Medium |
