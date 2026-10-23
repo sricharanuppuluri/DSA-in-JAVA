@@ -83,6 +83,7 @@ Created by **Sri Charan Uppuluri**
 | [0053-maximum-subarray](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -235,4 +236,5 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
