@@ -86,6 +86,7 @@ Created by **Sri Charan Uppuluri**
 | [0152-maximum-product-subarray](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -135,6 +136,7 @@ Created by **Sri Charan Uppuluri**
 | [0016-3sum-closest](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Quicksort
@@ -177,6 +179,7 @@ Created by **Sri Charan Uppuluri**
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0217-contains-duplicate](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
