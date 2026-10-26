@@ -98,6 +98,7 @@ Created by **Sri Charan Uppuluri**
 | [0974-subarray-sums-divisible-by-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1314-matrix-block-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -204,6 +205,7 @@ Created by **Sri Charan Uppuluri**
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2235-add-two-integers/) | Easy |
 ## Simulation
