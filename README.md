@@ -121,6 +121,7 @@ Created by **Sri Charan Uppuluri**
 | [0088-merge-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@ Created by **Sri Charan Uppuluri**
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0344-reverse-string](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Matrix
