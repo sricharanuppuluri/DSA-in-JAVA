@@ -105,6 +105,7 @@ Created by **Sri Charan Uppuluri**
 | [1470-shuffle-the-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -187,6 +188,7 @@ Created by **Sri Charan Uppuluri**
 | [0904-fruit-into-baskets](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ Created by **Sri Charan Uppuluri**
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2235-add-two-integers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -224,6 +227,7 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
