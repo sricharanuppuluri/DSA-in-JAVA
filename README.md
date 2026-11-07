@@ -124,6 +124,7 @@ Created by **Sri Charan Uppuluri**
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ Created by **Sri Charan Uppuluri**
 | [0344-reverse-string](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
