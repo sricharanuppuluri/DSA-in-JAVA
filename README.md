@@ -131,6 +131,7 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0704-binary-search/) | Easy |
@@ -214,6 +215,7 @@ Created by **Sri Charan Uppuluri**
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0412-fizz-buzz](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -266,4 +268,8 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
