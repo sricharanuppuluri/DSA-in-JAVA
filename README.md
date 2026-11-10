@@ -220,6 +220,7 @@ Created by **Sri Charan Uppuluri**
 | [0523-continuous-subarray-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2235-add-two-integers/) | Easy |
 ## Simulation
@@ -232,6 +233,7 @@ Created by **Sri Charan Uppuluri**
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
