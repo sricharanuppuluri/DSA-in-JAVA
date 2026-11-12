@@ -109,6 +109,7 @@ Created by **Sri Charan Uppuluri**
 | [1512-number-of-good-pairs](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -183,6 +184,7 @@ Created by **Sri Charan Uppuluri**
 | [1004-max-consecutive-ones-iii](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/sricharanuppuluri/DSA-in-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
